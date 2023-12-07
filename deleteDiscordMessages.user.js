@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Undiscord
-// @description     Delete all messages in a Discord channel or DM (Bulk deletion)
+// @description     DM
 // @version         5.2.3
 // @author          victornpb
 // @homepageURL     https://github.com/victornpb/undiscord
